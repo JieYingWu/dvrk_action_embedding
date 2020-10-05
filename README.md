@@ -48,8 +48,8 @@ ros and other stuff
 
 ## Acknowledgement
 
-    Code modified from [rosbag2video][1]
+    Code modified from rosbag2video
+    (<https://github.com/mlaiacker/rosbag2video>)
     Thanks Maximilian Laiacker(post@mlaiacker.de) and Abel Gabor(baquatelle@gmail.com) for contributions
 
-    [1]: https://github.com/mlaiacker/rosbag2video
 
