@@ -2,7 +2,7 @@
 # This is the script to convert the JHU recored data from rosbag format to video images(.png) and kinematics files(.txt).
 
 
-## install:
+## Install:
 
 ffmpeg is needed and can be installed on Ubuntu with:
 
@@ -14,14 +14,20 @@ ros and other stuff
 
 
 
-## usage:
+## Usage:
 
-### Play the rosbag file:
+### 1. Modify the path of data:
+    data_root = {path_to_data}
+    save_root = {path_to_save_folder}
+
+bag_name = '2020-10-02-15-59-45'
+
+### 2. Play the rosbag file:
     pyhon
 
-### Run the script
+### 3. Run the script
 
-## example output:
+## Example output:
 
     ./rosbag2video.py camera_and_state.bag
 
