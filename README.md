@@ -16,11 +16,11 @@ ros and other stuff
 
 ## Usage:
 
-### 1. Modify the path of data:
+### 1. Modify the path and name of the source data:
     data_root = {path_to_data}
     save_root = {path_to_save_folder}
 
-bag_name = '2020-10-02-15-59-45'
+    bag_name = {rosbag_name}
 
 ### 2. Play the rosbag file:
     pyhon
@@ -40,7 +40,7 @@ bag_name = '2020-10-02-15-59-45'
 
 ## Acknowledgement
 
-    Code modified from [rosbag2video](https://github.com/mlaiacker/rosbag2video/). Thanks for contributions
+Code modified from [rosbag2video](https://github.com/mlaiacker/rosbag2video/). Thanks for contributions
     
 ## Citation
 
