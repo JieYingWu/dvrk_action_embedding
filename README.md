@@ -16,16 +16,17 @@ ros and other stuff
 
 ## Usage:
 
-### 1. Modify the path and name of the source data:
+### 1. Modify the path and name of the source data in recieve_data.py (other seeting can refer to the code):
     data_root = {path_to_data}
     save_root = {path_to_save_folder}
 
     bag_name = {rosbag_name}
+    
+### 2. Run the script
 
-### 2. Play the rosbag file:
-    pyhon
-
-### 3. Run the script
+### 3. Play the rosbag file:
+    >>roscore
+    >>rosbag play {rosbag_name}.bag
 
 ## Example output:
 
