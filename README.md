@@ -44,6 +44,7 @@ ros and other stuff
       booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
       pages={13346--13353},
       year={2021},
-      organization={IEEE}}
+      organization={IEEE}
+      }
 
 
