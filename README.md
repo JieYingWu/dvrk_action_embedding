@@ -38,7 +38,8 @@ ros and other stuff
     
 ## Citation
 
-      @inproceedings{long2021relational,
+      @inproceedings{
+      long2021relational,
       title={Relational graph learning on visual and kinematics embeddings for accurate gesture recognition in robotic surgery},
       author={Long, Yonghao and Wu, Jie Ying and Lu, Bo and Jin, Yueming and Unberath, Mathias and Liu, Yun-Hui and Heng, Pheng Ann and Dou, Qi},
       booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
