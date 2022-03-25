@@ -1,5 +1,5 @@
 
-# This is the script to convert the JHU recored data from rosbag format to video images(.png) and kinematics(.txt) file.
+# This is the script to convert the JHU recored data from rosbag format to video images(.png) and kinematics files(.txt).
 
 
 ## install:
