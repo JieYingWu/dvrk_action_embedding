@@ -22,7 +22,7 @@ ros and other stuff
 
     bag_name = {rosbag_name}
     
-     (other seeting can refer to the code)
+    (other setting please refer to the code)
     
 ### 2. Run the script
 
