@@ -16,11 +16,13 @@ ros and other stuff
 
 ## Usage:
 
-### 1. Modify the path and name of the source data in recieve_data.py (other seeting can refer to the code):
+### 1. Modify the path and name of the source data in 'recieve_data.py':
     data_root = {path_to_data}
     save_root = {path_to_save_folder}
 
     bag_name = {rosbag_name}
+    
+     (other seeting can refer to the code)
     
 ### 2. Run the script
 
