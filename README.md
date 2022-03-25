@@ -1,5 +1,5 @@
 
-This is the script to convert the JHU dataset from rosbag format to video images(.png) and kinematics(.txt) file.
+# This is the script to convert the JHU dataset from rosbag format to video images(.png) and kinematics(.txt) file.
 
 
 ## install:
@@ -16,10 +16,10 @@ ros and other stuff
 
 ## usage:
 
-# Play the rosbag file:
+### Play the rosbag file:
     pyhon
 
-# Run the script
+### Run the script
 
 ## example output:
 
