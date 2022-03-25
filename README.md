@@ -1,4 +1,7 @@
 
+## This is the script to convert the JHU dataset from rosbag format to video images(.png) and kinematics(.txt) file.
+
+
 ## install:
 
 ffmpeg is needed and can be installed on Ubuntu with:
