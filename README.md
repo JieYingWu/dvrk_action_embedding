@@ -51,8 +51,7 @@ ros and other stuff
 
 ## Acknowledgement
 
-    Code modified from rosbag2video
-    (<https://github.com/mlaiacker/rosbag2video>)
+    Code modified from [rosbag2video](https://github.com/mlaiacker/rosbag2video)
     Thanks Maximilian Laiacker(post@mlaiacker.de) and Abel Gabor(baquatelle@gmail.com) for contributions
 
 
