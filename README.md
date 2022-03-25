@@ -16,10 +16,10 @@ ros and other stuff
 
 ## usage:
 
-#Play the rosbag file:
+# Play the rosbag file:
     pyhon
 
-#Run the script
+# Run the script
 
 ## example output:
 
