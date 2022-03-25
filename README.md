@@ -24,11 +24,14 @@ ros and other stuff
     
     (other setting please refer to the code)
     
-### 2. Run the script
+### 2. Run the ros
+    roscore
+    
+### 3. Run the script
+    python recieve_data.py
 
-### 3. Play the rosbag file:
-    >>roscore
-    >>rosbag play {rosbag_name}.bag
+### 4. Play the rosbag file:
+    rosbag play {rosbag_name}.bag
 
 ## Example output:
 
